@@ -1,3 +1,7 @@
+1 2 3  6
+2 3 4  9
+3 4 5  12
+
 DECLARE SUB numPattern()
 CLS
 CALL numPattern
